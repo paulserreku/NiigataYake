@@ -34,7 +34,6 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
    ```
 
 
-   git clone https://github.com/paulserreku/NiigataYake.git
 2. Accédez au répertoire du projet :
 ```sh
 cd NiigataYake
